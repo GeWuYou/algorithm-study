@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <trees>
+     <tree path="/src/main/java/com/gewuyou/datastructures/linear" title="线性表"/>
+     <tree path="/src/main/java/com/gewuyou/algorithm/test" title="数据结构与算法测试包"/>
+     <tree path="/src/main/java/com/gewuyou/algorithm/problem/CircleListCheck.java" title="链表有环问题" extension="java"/>
+     <tree path="/src/main/java/com/gewuyou/algorithm/test/CircleListInTest.java" title="有环链表入口问题" extension="java"/>
+     <tree path="/src/main/java/com/gewuyou/algorithm/test/FastSlowTest.java" title="中间值问题" extension="java"/>
+     <tree path="/src/main/java/com/gewuyou/algorithm/test/JosephTest.java" title="约瑟夫问题" extension="java"/>
+     <tree path="/src/main/java/com/gewuyou/datastructures/linear/LinkList.java" title="单链表" extension="java"/>
+     <tree path="/src/main/java/com/gewuyou/datastructures/linear/SequenceList.java" title="顺序表" extension="java"/>
+     <tree path="/src/main/java/com/gewuyou/datastructures/linear/Stack.java" title="栈" extension="java"/>
+     <tree path="/src/main/java/com/gewuyou/datastructures/linear/TwoWayLinkList.java" title="双链表" extension="java"/>
+     <tree path="/src/main/java/com/gewuyou/algorithm/problem/BracketsMatch.java" title="括号匹配问题" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/test/ReversePolishNotationTest.java" title="逆波兰表达式" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/linear/Queue.java" title="队列(基于链表)" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/symbol/SymbolTable.java" title="符号表" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/symbol/OrderSymbolTable.java" title="有序符号表" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/symbol" title="符号表"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/tree" title="树"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/tree/BinaryTree.java" title="二叉查找树(链表)" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/test/PagerFoldingTest.java" title="折纸问题" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/heap/Heap.java" title="堆" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/heap" title="堆"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/sort/HeapSort.java" title="堆排序" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/priority/MaxPriorityQueue.java" title="最大优先队列(基于堆)" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/priority" title="优先队列"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/priority/MinPriorityQueue.java" title="最小优先队列" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/priority/IndexMinPriorityQueue.java" title="索引最小优先队列" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/tree/RedBlackTree.java" title="红黑树" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/Graph.java" title="无向图" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/GraphFirstSearch.java" title="深度优先" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/test/Traffic_Project_Test.java" title="畅通工程(并查集)" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph" title="图"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/uf" title="并查集"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm" title="算法"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/DepthFirstSearch.java" title="深度优先搜索" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/DepthFirstPaths.java" title="基于深度优先的路径查找" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/BreadthFirstSearch.java" title="广度优先搜索" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/Digraph.java" title="有向图" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/DirectedCycle.java" title="有向环" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/DepthFirstOrder.java" title="顶点排序" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/TopoLogical.java" title="拓扑排序" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/Edge.java" title="加权边" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/EdgeWeightedGraph.java" title="加权无向图" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/PrimMST.java" title="Prim算法" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/KruskalMST.java" title="Kruskal算法" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/DirectedEdge.java" title="有向边" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/EdgeWeightedDigraph.java" title="加权有向图" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/graph/DijkstraSP.java" title="Dijkstra算法" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/sort" title="排序算法"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/sort/Bubble.java" title="冒泡排序" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/sort/Selection.java" title="选择排序" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/sort/Insertion.java" title="插入排序" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/sort/Shell.java" title="希尔排序" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/sort/Sort.java" title="排序公共类" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/sort/Merge.java" title="归并排序" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/sort/Quick.java" title="快速排序" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem" title="算法题"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/array" title="数组"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures" title="数据结构"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/array/SparseArray.java" title="稀疏数组" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/test/SparseArrayTest.java" title="稀疏数组测试" extension="java"/>
+   <tree path="/src/main/java/com/gewuyou/datastructures/linear/ArrayQueue.java" title="队列(基于数组)" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/linear/CircleArrayQueue.java" title="环形队列" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/Josephu.java" title="约瑟夫问题" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/Calculator.java" title="基于栈实现计算器" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ReversePolishNotation.java" title="逆波兰表达式计算器" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ValidSudoku.java" title="有效的数独" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/Arrangement.java" title="排列式" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/MazeProblem.java" title="递归解决迷宫寻路问题"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/EightQueensProblem.java" title="八皇后问题"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/sort/Radix.java" title="基数排序" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ReverseLinkedList.java" title="链表反转" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ReverseBetween.java" title="反转部分链表"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ListNode.java" title="牛客网链表节点" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/LinkedListMerge.java" title="有序链表的合并"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/MergeLists.java" title="合并K个已排序的链表"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/HasCycle.java" title="判断链表有环问题" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/EntryNodeOfLoop.java" title="有环链表入口问题"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/FindKthToTail.java" title="查找链表倒数k个节点"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/RemoveNthFromEnd.java" title="删除链表的倒数第n个节点"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/FindFirstCommonNode.java" title="两个链表的第一个公共结点"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/AddInList2.java" title="链表相加(二)" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/SortInList.java" title="链表排序" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/IsPail.java" title="判断链表是否为回文结构"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/OddEvenList.java" title="链表的奇偶重排" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/DeleteDuplicates.java" title="删除有序链表中重复的节点"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/BinarySearch.java" title="二分查找" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/FindTargetBy2Array.java" title="在二维数组中查找目标值"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/PeakFind.java" title="寻找峰值" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ReversePairsByArray.java" title="数组中的逆序对"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/MinNumberInRotateArray.java" title="旋转数组中的最小数字"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ComparativeVersionNumber.java" title="比较版本号"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/PreorderTraversalOfBinaryTrees.java"
+          title="二叉树的前序遍历" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/TreeNode.java" title="牛客网树节点" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/Test.java" title="算法测试类" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/MiddleOrderTraversalOfBinaryTree.java"
+          title="二叉树的中序遍历" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/PostOrderTraversalOfBinaryTrees.java"
+          title="二叉树的后序遍历" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/SequentialTraversalOfBinaryTrees.java"
+          title="二叉树的层序遍历" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/PrintBinaryTreeInZigzagSequence.java"
+          title="按之字形层序遍历二叉树" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/BinaryTreeMaximumDepth.java" title="二叉树的最大深度"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/datastructures/heap/Heap.java" title="堆" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/BinaryTreeNeutralizesPath2SomeValue1.java"
+          title="二叉树中和为某一值的路径(一)" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/BinarySearchTreeAndBidirectionalLinkedList.java"
+          title="二叉搜索树与双向链表" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/SymmetricBinaryTree.java" title="对称的二叉树"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/MergeBinaryTree.java" title="合并二叉树" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/MirrorBinaryTree.java" title="二叉树的镜像"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/BinarySearchTreeJudgment.java" title="二叉搜索树的判断"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/CompleteBinaryTreeJudgment.java" title="完全二叉树的判断"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/BalancedBinaryTreeJudgment.java" title="平衡二叉树的判断"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/NearestPublicNodeBinarySearchTree.java"
+          title="二叉搜索树的最近公共祖先" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ClosestPublicAncestorBinaryTree.java"
+          title="二叉树的最近公共祖先" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/SerializeBinaryTree.java" title="序列化二叉树"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/RebuildBinaryTree.java" title="重建二叉树"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/OutputRightViewReconstructedBinaryTree.java"
+          title="输出重建二叉树的右视图" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/TwoStacksImplementTheQueue.java" title="使用两个栈实现队列"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/StackContainingMinFunction.java" title="包含min函数的栈"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ValidParenthesisSequence.java" title="有效的括号序列"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/MaximumValueOfTheSlidingWindow.java"
+          title="滑动窗口的最大值" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/SmallestKNumber.java" title="最小K个数" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/MedianInTheDataStream.java" title="数据流中的中位数"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/FindTheKLargest.java" title="寻找第K大" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ExpressionEvaluation.java" title="表达式求值"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/TheSumOfTheTwoNumbers.java" title="两数之和"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/MoreThanHalfOfTheNumbersAppearInTheArray.java"
+          title="数组中出现次数超过一半的数字" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/TwoNumbersAppearOnlyOnceInTheArray.java"
+          title="数组中只出现一次的两个数字" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/TheFirstPositiveIntegerMissing.java"
+          title="缺失的第一个正整数" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/TheSumOfTheThreeNumbers.java" title="三数之和"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/FullArrangementOfNumbersWithoutDuplicates.java"
+          title="没有重复项数字的全排序列" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ThereAreFullPermutationsOfRepeatingNumbers.java"
+          title="有重复数字的全排列" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/RotateTheImage.java" title="旋转图像" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer" title="剑指Offer"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/Test.java" title="算法测试类"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/ReplaceSpaces.java" title="第五题 替换空格"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/ReverseTraversalOfALinkedList.java"
+          title="第六题 链表的反向遍历" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/ListNode.java" title="力扣链表节点"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/StringThatRepresentsANumericValue.java"
+          title="第二十题 表示数值的字符串" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/ReverseTheLinkedList.java"
+          title="第二十四题 反转链表" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/ReplicationOfComplexLinkedLists.java"
+          title="第三十五题 复杂链表的复制" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/LeftRotationString.java"
+          title="第五十八题 左旋转字符串" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/RepeatedNumbersInTheArray.java"
+          title="第三题 数组中重复的数字" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/CountsNumberOfTimesNumberAppearsInSortedArray.java"
+          title="第五十三题 统计一个数字在排序数组中出现的次数" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/MissingNumber.java"
+          title="第五十三题 0-n-1缺失的数字" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/FindNumberIn2DArray.java"
+          title="第四题 二维数组中的查找" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/RotateTheSmallestNumberInAnArray.java"
+          title="第十一题 旋转数组中的最小数字" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/CharactersThatOccurOnlyOnce.java"
+          title="第五十题 只出现一次的字符" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/SequenceTraversal.java"
+          title="第三十二题 -1 层序遍历" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/SingleLineSequenceTraversal.java"
+          title="第三十二题 -2 层序遍历" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/ZigzagLevelOrderTraversal.java"
+          title="第三十二 -3 层序遍历" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/TreeSubstructure.java"
+          title="第二十六题 树的子结构" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/FibonacciSequence.java"
+          title="第十题 -1 斐波那契数列" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/FrogJumpingStairsProblem.java"
+          title="第十题 -2 青蛙跳台阶问题" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/MaximumProfitOnStocks.java"
+          title="第六十三题 股票的最大利润" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/MaximumSumOfConsecutiveSubarrays.java"
+          title="第四十二题 连续子数组的最大和" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/GiftSMaximumValue.java"
+          title="第第四十七题 礼物的最大价值" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion" title="每日一题"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/GreatestLetter.java" title="兼具大小写的最好英文字母"
+          extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/Test.java" title="算法测试类" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/NumbersTranslatedToStrings.java"
+          title="第四十六题 数字翻译成字符串" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/LongestSubstringWithoutRepeatingCharacters.java"
+          title="第四十八题 最长不含重复字符的子字符串" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/NumberOfSchemesToGenerateABalancedArray.java"
+          title="生成平衡数组的方案数" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/DeleteLinkedListNode.java"
+          title="第十八题 删除链表的节点" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/swordpointstooffer/FindTheLastKNodesOfTheLinkedList.java"
+          title="第二十二题 查找链表倒数K个节点" extension="java"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/StatisticsAsterisk.java" title="统计星号"
+          extension="java"/>
+
+</trees>
