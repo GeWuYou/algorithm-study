@@ -1,6 +1,8 @@
 package com.gewuyou.algorithm.dailyquestion;
 
-import com.gewuyou.algorithm.swordpointstooffer.ListNode;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 
 /**
  * 算法测试类
@@ -13,8 +15,24 @@ import com.gewuyou.algorithm.swordpointstooffer.ListNode;
  */
 public class Test {
     public static void main(String[] args) {
-        ListNode node = new ListNode(4);
-
+        List<Integer> test = new ArrayList<>();
+        test.add(1);
+        test.add(2);
+        test.add(3);
+        test.add(4);
+        test.add(5);
+        test.add(6);
+        test.add(7);
+        test.add(8);
+        Iterator<Integer> iterator = test.iterator();
+        while (iterator.hasNext()) {
+            Integer i = iterator.next();
+            if((i&1)==0) {
+                iterator.remove();
+            }
+        }
+        System.out.println(test);
     }
+
 }
 

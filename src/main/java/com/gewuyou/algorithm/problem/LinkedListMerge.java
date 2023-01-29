@@ -1,8 +1,5 @@
 package com.gewuyou.algorithm.problem;
 
-import java.util.LinkedList;
-import java.util.Queue;
-
 /**
  * 有序链表的合并
  *
@@ -14,47 +11,33 @@ import java.util.Queue;
  */
 public class LinkedListMerge {
     public ListNode Merge(ListNode list1, ListNode list2) {
-        if (list1 == null && list2 == null) {
-            return null;
-        }
-        /*
-          思路：
-          使用两个队列存储该链表，通过比较两个出队的数据来创建合并后的有序链表
-         */
-        // 创建两个队列
-        Queue<Integer> queue1 = new LinkedList<>();
-        Queue<Integer> queue2 = new LinkedList<>();
-        // 将链表的数据倒入
-        while (list1 != null) {
-            queue1.add(list1.val);
-            list1 = list1.next;
-        }
-        while (list2 != null) {
-            queue2.add(list2.val);
-            list2 = list2.next;
-        }
-        // 创建一个新头节点
-        ListNode head = new ListNode(-1);
-        ListNode flagNode = head;
-
-        while (!queue1.isEmpty() && !queue2.isEmpty()) {
-            if (queue1.peek() < queue2.peek()) {
-                flagNode.next = new ListNode(queue1.poll());
+        // 设list1为主链表 创建两个指针
+        ListNode flag = new ListNode(0);
+        ListNode head = flag;
+        while (list1 != null && list2 != null) {
+            // 比较两个指针值
+            if (list1.val > list2.val) {
+                flag.next = list2;
+                list2 = list2.next;
+            } else if (list1.val < list2.val) {
+                flag.next = list1;
+                list1 = list1.next;
             } else {
-                flagNode.next = new ListNode(queue2.poll());
+                flag.next = list1;
+                list1 = list1.next;
+                flag = flag.next;
+                flag.next = list2;
+                list2 = list2.next;
             }
-            flagNode = flagNode.next;
+            flag = flag.next;
         }
-        // 如果其中一个队列已经空了，则直接将另一个的值全部放入新链表
-        while (!queue1.isEmpty()) {
-            flagNode.next = new ListNode(queue1.poll());
-            flagNode = flagNode.next;
+        // 判断是否还有链表未遍历完
+        if (list1 != null) {
+            flag.next = list1;
         }
-        while (!queue2.isEmpty()) {
-            flagNode.next = new ListNode(queue2.poll());
-            flagNode = flagNode.next;
+        if (list2 != null) {
+            flag.next = list2;
         }
-        // 返回链表
         return head.next;
     }
 

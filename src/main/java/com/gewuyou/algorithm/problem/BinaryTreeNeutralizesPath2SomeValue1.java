@@ -52,6 +52,6 @@ public class BinaryTreeNeutralizesPath2SomeValue1 {
             leftResult = hasPathSum(root.left, value, sum);
         }
         // 返回结果
-        return rightResult||leftResult;
+        return rightResult || leftResult;
     }
 }

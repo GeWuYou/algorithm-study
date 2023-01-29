@@ -14,11 +14,11 @@ public class ListNode {
     /**
      * 数据
      */
-    int val;
+    public int val;
     /**
      * 下一节点索引
      */
-    ListNode next = null;
+    public ListNode next = null;
 
     /**
      * 构造方法

@@ -13,6 +13,17 @@ import java.util.Map;
  * @since 2023/1/19 17:35
  */
 public class ReplicationOfComplexLinkedLists {
+    static class Node {
+        int val;
+        Node next;
+        Node random;
+
+        public Node(int val) {
+            this.val = val;
+            this.next = null;
+            this.random = null;
+        }
+    }
     public static Node copyRandomList(Node head) {
         // 判空
         if(head == null){
@@ -37,14 +48,4 @@ public class ReplicationOfComplexLinkedLists {
         return map.get(head);
     }
 }
-class Node {
-    int val;
-    Node next;
-    Node random;
 
-    public Node(int val) {
-        this.val = val;
-        this.next = null;
-        this.random = null;
-    }
-}

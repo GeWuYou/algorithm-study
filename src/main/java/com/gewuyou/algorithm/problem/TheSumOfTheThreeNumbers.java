@@ -16,9 +16,11 @@ import java.util.Set;
  * @since 2023/1/16 19:00
  */
 public class TheSumOfTheThreeNumbers {
-    public List<ArrayList<Integer>> threeSum(int[] num) {
+    public List<List<Integer>> threeSum(int[] num) {
         // 创建结构集合
-        List<ArrayList<Integer>> result = new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<>();
+        // 去重数组
+        Set<List<Integer>> temporary = new LinkedHashSet<>();
         // 对数组进行判空
         if (num.length == 0) {
             return result;
@@ -39,7 +41,7 @@ public class TheSumOfTheThreeNumbers {
                     temp.add(num[i]);
                     temp.add(num[former]);
                     temp.add(num[after]);
-                    result.add(temp);
+                    temporary.add(temp);
                     after--;
                     former++;
                 }
@@ -53,10 +55,8 @@ public class TheSumOfTheThreeNumbers {
                 }
             }
         }
-        // 去重
-        Set<ArrayList<Integer>> temporary = new LinkedHashSet<>(result);
-        result.clear();
         result.addAll(temporary);
         return result;
     }
+
 }

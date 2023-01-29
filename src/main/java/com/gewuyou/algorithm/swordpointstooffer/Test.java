@@ -1,5 +1,6 @@
 package com.gewuyou.algorithm.swordpointstooffer;
 
+
 /**
  * 算法测试类
  *
@@ -11,7 +12,6 @@ package com.gewuyou.algorithm.swordpointstooffer;
  */
 public class Test {
     public static void main(String[] args) {
-        ListNode node = new ListNode(4);
-        System.out.println(DeleteLinkedListNode.deleteNode(node, 4)==null);
+
     }
 }
