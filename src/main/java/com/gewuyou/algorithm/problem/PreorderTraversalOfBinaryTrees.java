@@ -31,7 +31,7 @@ public class PreorderTraversalOfBinaryTrees {
     /**
      * 传入根节点，返回前序遍历结果
      *
-     * @param root                        根节点
+     * @param root   根节点
      * @param result 前序遍历结果储存数组
      * @apiNote
      * @since 2022/12/29 14:24
@@ -47,4 +47,12 @@ public class PreorderTraversalOfBinaryTrees {
             preorderTraversal(root.right, result);
         }
     }
+
+    // public List<Integer> preorderTraversal(TreeNode root) {
+    //
+    //     List<Integer> result = new ArrayList<>();
+    //     preorderTraversal(root, result);
+    //     return result;
+    //
+    // }
 }

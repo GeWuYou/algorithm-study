@@ -10,36 +10,6 @@ package com.gewuyou.algorithm.problem;
  * @since 2022/12/21 10:41
  */
 public class DeleteDuplicates {
-    /**
-     * @param head ListNode类
-     * @return ListNode类
-     */
-    public ListNode deleteDuplicates1(ListNode head) {
-        // 代码健壮性检验
-        if (head == null || head.next == null) {
-            return head;
-        }
-        // 创建一个变量，用于存放当前节点数据
-        int temp = head.val;
-        ListNode curr = head.next;
-        ListNode pre = head;
-        while (true) {
-            // 如果上一节点值等于当前节点，删除当前节点
-            if (curr.val == temp) {
-                pre.next = curr.next;
-                curr = curr.next;
-            } else if (curr.val != temp) {
-                temp = curr.val;
-                pre = pre.next;
-                curr = curr.next;
-            }
-            if (curr == null) {
-                break;
-            }
-        }
-        return head;
-
-    }
 
     /**
      * @param head ListNode类

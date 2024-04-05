@@ -517,4 +517,166 @@
     <tree path="/src/main/java/com/gewuyou/algorithm/problem/Strstr.java" title="找出字符串中第一个匹配项的下标"/>
     <tree path="/src/main/java/com/gewuyou/algorithm/problem/SearchInsert.java" title="搜索插入位置"/>
    <tree path="/src/main/java/com/gewuyou/algorithm/problem/LengthOfLastWord.java" title="最后一个单词的长度"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/AddBinary.java" title="二进制求和"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/XSqrt.java" title="X的算术平方根"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/Atoi.java" title="字符串转整数"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/KAncestorOfATreeNode.java" title="树节点的第 K 个祖先"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/SortedArrayToBST.java" title="将有序数组转换为二叉搜索树"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/MinimumDepthOfTheBinaryTree.java" title="二叉树的最小深度"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/YangHuiTriangle.java" title="杨辉三角"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/VerifyThePalindromicString.java" title="验证回文字符串"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ExcelTableColumnName.java" title="Excel表列名称"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/InvertBinaryBits.java" title="颠倒二进制位" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/HappyNumber.java" title="快乐数"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/RemoveLinkedListElements.java" title="移除链表元素"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/IsomorphicString.java" title="同构字符串"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/MinOperations.java" title="使数组连续的最少操作数"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/ContainsNearbyDuplicate.java" title="存在重复元素2"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/NumberOfNodesInAFullBinaryTree.java"
+         title="完全二叉树的节点个数"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/ImplementTheStackWithAQueue.java" title="用队列实现栈"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/IntegerInversion.java" title="整数反转"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/ContainerWithTheMostWater.java" title="盛最多水的容器"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/MaximumCount.java"
+          title="2529. 正整数和负整数的最大计数"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/PowerOf2.java" title="2 的幂"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/MyQueue.java" title="用栈实现队列"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/PalindromicLinkedLists.java" title="回文链表"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/WholeNumbersToRomanNumerals.java" title="整数转罗马数字"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/LetterCombinationOfThePhoneNumber.java"
+         title="电话号码的字母组合"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/MaximumBinaryString.java"
+          title="修改后的最大二进制字符串"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/AllPathsToTheBinaryTree.java" title="二叉树的所有路径"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/PhaseAddition.java" title="各位相加"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ParenthesesAreGenerated.java" title="括号生成"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/DivideTwoNumbers.java" title="两数相除"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/FirstBadVersion.java" title="第一个错误的版本" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/WordRegularity.java" title="290. 单词规律"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/NimGames.java" title="292. Nim 游戏"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/NumArray.java" title="303. 区域和检索 - 数组不可变"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/NextPermutation.java" title="31. 下一个排列"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/SearchForARotationallySortedArray.java"
+         title="33. 搜索旋转排序数组"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/FindChampionI_I.java" title="找到冠军 I"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/PowerOf3.java" title="326. 3 的幂"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/BitCounting.java" title="338. 比特位计数"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/PowerOf4.java" title="342. 4的幂"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/ReverseVowels.java" title="345. 反转字符串中的元音字母"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/SearchRange.java"
+          title="34. 在排序数组中查找元素的第一个和最后一个位置"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/AppearanceSequence.java" title="38. 外观数列"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/FindChampion_ii.java" title="找到冠军 II"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/IntersectionOfTwoArrays.java" title="349. 两个数组的交集"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/ValidPerfectSquareNumber.java"
+         title="367. 有效的完全平方数"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/RansomNote.java" title="383. 赎金信"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/SumOfCombinations.java" title="39. 组合总和"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/SumOfCombinations_II.java" title="40. 组合总和 II"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/MyHashSet.java" title="705. 设计哈希集合"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/FindTheDifference.java" title="找不同"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/JudgeOrder.java" title="392. 判断子序列"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/BinaryWatches.java" title="401. 二进制手表"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/StringsAreMultiplied.java" title="43. 字符串相乘"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/SumOfTheLeftLeaves.java" title="404. 左叶子之和"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/LongestPalindrome.java" title="409. 最长回文串"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ToHex.java" title="405. 数字转换为十六进制数"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/FizzBuzz.java" title="412. Fizz Buzz"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/FullyArranged.java" title="46. 全排列"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/FullArrangement_II.java"
+          title="47. 全排列 II(有重复数字)"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ArrangeTheCoins.java" title="441. 排列硬币"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/FindDisappearedNumbers.java"
+         title="448. 找到所有数组中消失的数字"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/Pow.java" title="50. Pow(x, n)"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/DistributeCookies.java" title="455. 分发饼干"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/HammingDistance.java" title="461. 汉明距离"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/FindOriginalArray.java"
+          title="2007. 从双倍数组中还原原数组"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ComplementsOfNumbers.java" title="数字的补数"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/FindMaxConsecutiveOnes.java"
+          title="485. 最大连续 1 的个数"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/ConstructARectangle.java" title="492. 构造矩形"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/JumpingGame.java" title="55. 跳跃游戏"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/SpiralMatrixII.java" title="59. 螺旋矩阵 II"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/TeemoAttacks.java" title="495. 提莫攻击"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/NextBiggerElementI.java" title="496. 下一个更大元素 I"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/KeyboardRow.java" title="500. 键盘行"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/ModeInABinarySearchTree.java"
+         title="501. 二叉搜索树中的众数"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/RotateLinkedLists.java" title="61. 旋转链表"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/HepdigimalNumber.java" title="504. 七进制数"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/PerfectNumber.java" title="507. 完美数"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/DetectUppercaseLetters.java" title="520. 检测大写字母"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/EditTheDistance.java" title="72. 编辑距离"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/MatrixIsZeroed.java" title="73. 矩阵置零"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/MinimumAbsoluteDifferenceBinarySearchTree.java"
+          title="530. 二叉搜索树的最小绝对差"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/InvertStringII.java" title="541. 反转字符串 II"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/SearchFor2DMatrices.java" title="74. 搜索二维矩阵"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/CombinedSumIV.java" title="377. 组合总和 Ⅳ"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/InvertTheWordIIIInTheString.java"
+          title="557. 反转字符串中的单词 III\"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/Combination.java" title="组合"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/MaximumDepthOfTheNForkTree.java"
+         title="559. N 叉树的最大深度"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/StudentAttendanceRecordI.java" title="551. 学生出勤记录 I"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/AngryBookstoreOwner.java"
+          title="1052. 爱生气的书店老板"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/SlopeOfTheBinaryTree.java" title="563. 二叉树的坡度"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/ReshapeTheMatrix.java" title="566. 重塑矩阵"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/SubtreeOfAnotherTree.java" title="572. 另一棵树的子树"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/DivideSweet.java" title="575. 分糖果"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/WordSearch.java" title="79. 单词搜索"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/RemoveDuplicatesII.java"
+         title="80. 删除有序数组中的重复项 II"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/TotalTimeItTakesToInfectTheBinaryTree.java"
+          title="2385. 感染二叉树需要的总时间"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/AntherOrderTraversalOfTheNForkTree.java"
+          title="589. N 叉树的前序遍历"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/PostOrderTraversalOfTheNProngedTree.java"
+         title="590. N 叉树的后序遍历"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/IntervalAdditionII.java" title="598. 区间加法 II"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/SearchForTheRotationSortArrayII.java"
+         title="81. 搜索旋转排序数组 II"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/TotalDistanceTraveled.java"
+          title="2739. 总行驶距离"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/MinimumSumOfTheIndexesOfTheTwoLists.java"
+         title="599. 两个列表的最小索引总和"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/ProblemOfPlantingFlowers.java" title="605. 种花问题"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/LayerAverageOfTheBinaryTree.java"
+          title="637. 二叉树的层平均值"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/DelimitedLinkedLists.java" title="86. 分隔链表"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/SnapshotArray.java" title="1146. 快照数组"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/MaximumAverageOfTheSubarrayI.java"
+          title="643. 子数组最大平均数 I"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/WrongCollection.java" title="645. 错误的集合"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/SumOfTwoNumbersIVEnterTheBinarySearchTree.java"
+          title="653. 两数之和 IV - 输入二叉搜索树"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/SubsetII.java" title="90. 子集 II"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/QueryTheWidthOfEachColumnInTheGridChart.java"
+          title="2639. 查询网格图中每一列的宽度"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/SecondSmallestNodeInTheBinaryTree.java"
+          title="671. 二叉树中第二小的节点"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/VerifyPalindromicStringII.java" title="680. 验证回文串 II"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/InvertLinkedListII.java" title="92. 反转链表 II"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/RestoreIPAddresses.java" title="93. 复原 IP 地址"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/AlternateBitBinaryNumbers.java"
+          title="693. 交替位二进制数"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/BaseballGames.java" title="棒球比赛"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/DegreeOfTheArray.java" title="697. 数组的度"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/DifferentBinarySearchTreeII.java"
+          title="95. 不同的二叉搜索树 II"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/KthLargest.java" title="703. 数据流中的第 K 大元素"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/ConvertToLowercaseLetters.java"
+          title="709. 转换成小写字母"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/InterleavedStrings.java" title="97. 交错字符串"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/problem/LookForTheCenterSubscriptOfTheArray.java"
+          title="724. 寻找数组的中心下标"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/SelfDividend.java" title="728. 自除数"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/ImageRendering.java" title="733. 图像渲染"/>
+   <tree path="/src/main/java/com/gewuyou/algorithm/problem/RestoreTheBinarySearchTree.java"
+         title="99. 恢复二叉搜索树"/>
 </trees>

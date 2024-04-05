@@ -36,4 +36,20 @@ public class UglyNumbers {
         }
         return dp[n - 1];
     }
+
+    public boolean isUgly(int n) {
+        if (n == 0) {
+            return false;
+        }
+        int[] arr = new int[]{2, 3, 5};
+        for (int j : arr) {
+            while (n % j == 0) {
+                n /= j;
+            }
+            if (n == 1) {
+                return true;
+            }
+        }
+        return false;
+    }
 }

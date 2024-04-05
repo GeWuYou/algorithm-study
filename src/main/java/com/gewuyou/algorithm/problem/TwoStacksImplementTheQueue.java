@@ -49,11 +49,10 @@ public class TwoStacksImplementTheQueue {
 
     public int pop() {
         // 检查输出栈是否为空
-        if (outputStack.isEmpty()) {
-            if (!inputStack.isEmpty()) {
+        if (outputStack.isEmpty() && (!inputStack.isEmpty())) {
                 // 如果输出栈为空，输入栈不为空，将输入栈中的数据倒入输出栈
                 transfer(outputStack, inputStack);
-            }
+
         }
         if(outputStack.isEmpty()){
             return -1;

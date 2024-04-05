@@ -11,10 +11,14 @@ package com.gewuyou.algorithm.swordpointstooffer;
  */
 public class MissingNumber {
     public int missingNumber(int[] nums) {
+        int [] arr = new int[nums.length+1];
+        for (int num : nums) {
+            arr[num] = num;
+        }
         int index = 0;
-        for (index = 0; index < nums.length; index++) {
-            if(nums[index]!=index){
-                return index;
+        for (int i = 1; i < arr.length; i++) {
+            if(arr[i]==index){
+                return i;
             }
         }
         return index;

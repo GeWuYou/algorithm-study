@@ -23,6 +23,6 @@ public class AddStrings {
     }
 
     public static void main(String[] args) {
-        addStrings("123456789", "987654321");
+        System.out.println(addStrings("123456789", "987654321"));
     }
 }

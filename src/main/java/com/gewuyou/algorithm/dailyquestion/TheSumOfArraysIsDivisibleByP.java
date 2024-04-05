@@ -1,7 +1,5 @@
 package com.gewuyou.algorithm.dailyquestion;
 
-import lombok.var;
-
 import java.util.HashMap;
 
 /**
@@ -17,7 +15,7 @@ public class TheSumOfArraysIsDivisibleByP {
     public int minSubarray(int[] nums, int p) {
         int length = nums.length;
         int result = length;
-        var s = new int[length + 1];
+        int[] s = new int[length + 1];
         // 构建前缀和
         for (int i = 0; i < length; i++) {
             s[i + 1] = (s[i] + nums[i]) % p;
@@ -27,7 +25,7 @@ public class TheSumOfArraysIsDivisibleByP {
         if (x == 0) {
             return 0;
         }
-        var last = new HashMap<Integer, Integer>();
+        HashMap<Integer, Integer> last = new HashMap<Integer, Integer>();
         for (int i = 0; i <= length; i++) {
             last.put(s[i], i);
             int j = last.getOrDefault((s[i] - x + p) % p, -length);

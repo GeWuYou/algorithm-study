@@ -1,7 +1,6 @@
 package com.gewuyou.algorithm.dailyquestion;
 
 import com.gewuyou.algorithm.swordpointstooffer.ListNode;
-import lombok.var;
 
 import java.util.ArrayList;
 
@@ -18,7 +17,7 @@ public class ReorderList {
         if (head == null) {
             return;
         }
-        var nodes = new ArrayList<ListNode>();
+        ArrayList<ListNode> nodes = new ArrayList<ListNode>();
         ListNode flag = head;
         while (flag != null) {
             nodes.add(flag);

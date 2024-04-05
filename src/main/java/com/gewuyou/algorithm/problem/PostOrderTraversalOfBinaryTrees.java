@@ -45,4 +45,11 @@ public class PostOrderTraversalOfBinaryTrees {
             result.add(root.val);
         }
     }
+
+    // public List<Integer> postorderTraversal(TreeNode root) {
+    //     // 创建一个数组接收后序遍历结果
+    //     List<Integer> result = new ArrayList<>();
+    //     postorderTraversal2(root, result);
+    //     return result;
+    // }
 }

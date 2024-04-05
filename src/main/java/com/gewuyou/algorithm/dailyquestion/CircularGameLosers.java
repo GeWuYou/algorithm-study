@@ -1,7 +1,5 @@
 package com.gewuyou.algorithm.dailyquestion;
 
-import lombok.var;
-
 import java.util.ArrayList;
 
 /**
@@ -14,7 +12,7 @@ import java.util.ArrayList;
  */
 public class CircularGameLosers {
     public int[] circularGameLosers(int n, int k) {
-        var result = new ArrayList<Integer>();
+        ArrayList<Integer> result = new ArrayList<Integer>();
         boolean[] friends = new boolean[n];
         for (int i = k, j = 0; !friends[j]; i += k) {
             friends[j] = true;
