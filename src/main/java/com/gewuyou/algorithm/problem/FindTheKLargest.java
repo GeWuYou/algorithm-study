@@ -73,7 +73,6 @@ public class FindTheKLargest {
         int pivot = array[start];
         // 使用while循环找出枢轴的最终位置
         while (start < end) {
-
             while (start < end && array[end] >= pivot) {
                 // 如果右边的值大于枢轴，则移动索引
                 end--;
