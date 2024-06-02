@@ -870,4 +870,5 @@
           title="2028. 找出缺失的观测数据"/>
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/DistributeCandyIToTheLittleOnes.java"
           title="2928. 给小朋友们分糖果 I"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/DivideSweets.java" title="575. 分糖果"/>
 </trees>
