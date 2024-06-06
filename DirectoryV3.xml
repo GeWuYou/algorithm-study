@@ -871,4 +871,6 @@
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/DistributeCandyIToTheLittleOnes.java"
           title="2928. 给小朋友们分糖果 I"/>
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/DivideSweets.java" title="575. 分糖果"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/DistinguishBetweenBlackAndWhiteBalls.java"
+          title="2938. 区分黑球与白球"/>
 </trees>
