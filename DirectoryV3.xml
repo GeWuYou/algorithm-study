@@ -873,4 +873,5 @@
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/DivideSweets.java" title="575. 分糖果"/>
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/DistinguishBetweenBlackAndWhiteBalls.java"
           title="2938. 区分黑球与白球"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/Lifeboat.java" title="881. 救生艇"/>
 </trees>
