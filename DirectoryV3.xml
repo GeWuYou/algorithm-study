@@ -875,4 +875,6 @@
           title="2938. 区分黑球与白球"/>
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/Lifeboat.java" title="881. 救生艇"/>
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/BattleshipOnDeck.java" title="419. 甲板上的战舰"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/RoundUpTheAccountBalanceAfterThePurchase.java"
+          title="2806. 取整购买后的账户余额"/>
 </trees>
