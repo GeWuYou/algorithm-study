@@ -877,4 +877,6 @@
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/BattleshipOnDeck.java" title="419. 甲板上的战舰"/>
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/RoundUpTheAccountBalanceAfterThePurchase.java"
           title="2806. 取整购买后的账户余额"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/MaxScore.java"
+          title="2786. 访问数组中的位置使分数最大"/>
 </trees>
