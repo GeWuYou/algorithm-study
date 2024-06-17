@@ -881,4 +881,6 @@
           title="2786. 访问数组中的位置使分数最大"/>
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/MaximumBeautyValueOfTheArray.java"
           title="2779. 数组的最大美丽值"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/LongestSpecialSequenceII.java"
+          title="522. 最长特殊序列 II"/>
 </trees>
