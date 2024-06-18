@@ -8,18 +8,18 @@ package com.gewuyou.algorithm.dailyquestion;
  */
 public class LongestSpecialSequenceII {
     public int findLUSlength(String[] strs) {
-       int n = strs.length;
-       int result = -1;
+        int n = strs.length;
+        int result = -1;
         for (int i = 0; i < n; i++) {
             boolean check = true;
             for (int j = 0; j < n; j++) {
-                if(i!=j&&isSubseq(strs[i],strs[j])){
+                if (i != j && isSubseq(strs[i], strs[j])) {
                     check = false;
                     break;
                 }
             }
-            if(check){
-                result = Math.max(result,strs[i].length());
+            if (check) {
+                result = Math.max(result, strs[i].length());
             }
         }
         return result;
@@ -37,10 +37,11 @@ public class LongestSpecialSequenceII {
         }
         return left == sLength;
     }
+
     public static void main(String[] args) {
         LongestSpecialSequenceII solution = new LongestSpecialSequenceII();
         // String[] strs = {"a","b","c","d","e","f","a","b","c","d","e"};
-        String[] strs = {"aaa","aaa","aa"};
+        String[] strs = {"aaa", "aaa", "aa"};
         int result = solution.findLUSlength(strs);
         System.out.println(result);
     }
