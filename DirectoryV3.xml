@@ -884,4 +884,6 @@
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/LongestSpecialSequenceII.java"
           title="522. 最长特殊序列 II"/>
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/PriceReductions.java" title="2288. 价格减免"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/NumberOfBeautifulSubscriptPairs.java"
+          title="2748. 美丽下标对的数目"/>
 </trees>
