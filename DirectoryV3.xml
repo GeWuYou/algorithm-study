@@ -886,4 +886,6 @@
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/PriceReductions.java" title="2288. 价格减免"/>
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/NumberOfBeautifulSubscriptPairs.java"
           title="2748. 美丽下标对的数目"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/TrendsInTemperatureChange.java"
+          title="LCP 61. 气温变化趋势"/>
 </trees>
