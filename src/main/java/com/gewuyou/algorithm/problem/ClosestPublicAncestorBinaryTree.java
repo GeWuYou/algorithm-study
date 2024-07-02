@@ -23,7 +23,17 @@ public class ClosestPublicAncestorBinaryTree {
      */
     boolean o1Flag = false;
     boolean o2Flag = false;
-
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        if(root == null) return null;
+        // 判断节点在哪
+        if(root.val<p.val && root.val<q.val){
+            return lowestCommonAncestor(root.right,p,q);
+        }
+        if(root.val>p.val && root.val>q.val){
+            return lowestCommonAncestor(root.left,p,q);
+        }
+        return root;
+    }
     /**
      * @param root TreeNode类
      * @param o1   int整型

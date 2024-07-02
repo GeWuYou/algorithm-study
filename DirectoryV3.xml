@@ -890,4 +890,15 @@
           title="LCP 61. 气温变化趋势"/>
     <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/NextBiggerElementII.java"
           title="503. 下一个更大元素 II"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/ModifyTheMatrix.java" title="3033. 修改矩阵"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/AlternateSubarrayCount.java"
+          title="3101. 交替子数组计数"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/CheckIfTheOperationIsLegitimate.java"
+          title="1958. 检查操作是否合法"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/IncremovableSubarrayCount.java"
+          title="2970. 统计移除递增子数组的数目 I"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/MaintainTheCitySkyline.java"
+          title="807. 保持城市天际线"/>
+    <tree path="/src/main/java/com/gewuyou/algorithm/dailyquestion/MinimumNumberOfLevelsToGetMorePoints.java"
+          title="3096. 得到更多分数的最少关卡数目"/>
 </trees>

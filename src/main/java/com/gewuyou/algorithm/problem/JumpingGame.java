@@ -9,18 +9,18 @@ package com.gewuyou.algorithm.problem;
 public class JumpingGame {
     public boolean canJump(int[] nums) {
         int n = nums.length;
-        // 记录总共能跳到的最远距离
-        int maxPosition = 0;
         // 记录当前能跳到的最远距离
-        int end = 0;
+        int currentMax = 0;
+        // 记录总共能跳到的最远距离
+        int totalMax = 0;
         for (int i = 0; i < n; i++) {
             // 记录当前能跳到的最远距离
-            maxPosition = Math.max(maxPosition, i + nums[i]);
-            if (i == end) {
-                // 更新边界
-                end = maxPosition;
+            currentMax = Math.max(currentMax, i + nums[i]);
+            // 如果遍历到了当前能跳到的最远距离，则更新总共能跳到的最远距离
+            if (i == totalMax) {
+                totalMax = currentMax;
             }
         }
-        return end >= n - 1;
+        return totalMax >= n - 1;
     }
 }

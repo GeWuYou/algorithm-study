@@ -1,8 +1,5 @@
 package com.gewuyou.algorithm.problem;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * 209. 长度最小的子数组
  *
@@ -11,28 +8,26 @@ import java.util.List;
  */
 public class SmallestSubarray {
     public int minSubArrayLen(int target, int[] nums) {
+        int sum = 0;
         int n = nums.length;
-        int currSum = 0;
-        List<Integer> res = new ArrayList<>();
-        for (int start = 0, end = 0; start < n; start++) {
-            while (currSum < target && end < n) {
-                currSum += nums[end];
-                end++;
+        int min = Integer.MAX_VALUE;
+        for (int left = 0, right = 0; left < n; left++) {
+            while (sum < target && right < n) {
+                sum += nums[right];
+                right++;
             }
-            if (currSum >= target) {
-                res.add(end - start);
+            if (sum >= target) {
+                min = Math.min(min, right - left);
             }
-            currSum -= nums[start];
+            sum -= nums[left];
         }
-        int minLen = Integer.MAX_VALUE;
-        for (int len : res) {
-            minLen = Math.min(minLen, len);
+        if (min == Integer.MAX_VALUE) {
+            min = 0;
         }
-        return minLen == Integer.MAX_VALUE? 0 : minLen;
+        return min;
     }
 
     public static void main(String[] args) {
-
         int[] nums = {1,2,3,4,5};
         int target =11;
         int res = new SmallestSubarray().minSubArrayLen(target, nums);

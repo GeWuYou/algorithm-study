@@ -13,7 +13,7 @@ import java.util.Map;
  * @since 2023/4/1 21:03
  */
 public class RomanNumeralsToIntegers {
-    private static Map<Character, Integer> romanNums = new HashMap<>();
+    private final static Map<Character, Integer> romanNums = new HashMap<>();
 
     static {
         romanNums.put('I', 1);
